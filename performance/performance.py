@@ -27,7 +27,6 @@ for i in range(1,5):
         f'select q{i}.english,q{i}.history,q{i}.geography,q{i}.maths,q{i}.science from student_details, q{i}  where student_details.rollno=q{i}.rollno and name="{name}";'
     )
     marks.append(list(cur))
-print(marks)
 x=np.asarray(range(1,6,1))
 y1=np.asarray(marks[0][0])
 y2=np.asarray(marks[1][0])
