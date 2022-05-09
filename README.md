@@ -1,6 +1,12 @@
-# hackfest-2022
-Repository for hackfest 2022 
+# Hackfest-2022
+Repository for hackfest 2022
+
+
+
 Hackfest 2022(Atlassian problem statement)
+
+
+
 A educational and interactive platform for students 
 Through machine learning algorithms,a system is created which recognizes faces of the students to mark their attendence.
 To ensure their attentivity in class,a gaze tracking and posture detection sysytem is present.
