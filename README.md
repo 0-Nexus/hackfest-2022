@@ -7,15 +7,15 @@ Hackfest 2022(Atlassian problem statement)
 
 
 
-A educational and interactive platform for students 
+An educational and interactive platform for students 
 
 
-Through machine learning algorithms,a system is created which recognizes faces of the students to mark their attendence.
-To ensure their attentivity in class,a gaze tracking and posture detection system is present.
+Through machine learning algorithms, a system is created which recognizes faces of the students to mark their attendence.
+To ensure their attentivity in class, a gaze tracking and posture detection system is also present.
 
 
-Additionally,all the written lecture are summarised for concise learning and hyperlinks for additional understanding is provided.
-A social media hashtag tracking system is created for the students to make sure that they are not affected by depression,cyberbullying and such grave problems.The hashtag notifier alerts the team whenever a student interacts with such hashtags or comments regarding this.
+Additionally, all the written lecture are summarised for concise learning and hyperlinks for additional understanding is provided.
+A social media hashtag tracking system is created for the students to make sure that they are not affected by depression, cyberbullying and such grave problems. The hashtag notifier alerts the team whenever a student interacts with such hashtags or comments regarding this.
 
 
 
